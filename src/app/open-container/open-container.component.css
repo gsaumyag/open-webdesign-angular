@@ -1,0 +1,512 @@
+.logo
+{
+  top: 27px;
+  left: 120px;
+  width: 123px;
+  height: 123px;
+  background: transparent url('../../assets/logo/logo.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.blob-small
+{
+  top: 213px;
+  left: -179px;
+  width: 571px;
+  height: 572px;
+  background: transparent url('../../assets/blob_small.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.we-make-it-super-simple
+{
+  top: 270px;
+  left: 189px;
+  width: 407px;
+  height: 98px;
+  background: transparent url('../../assets/we_make_it_super_sim.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-3
+{
+  top: 376px;
+  left: 192px;
+  width: 236px;
+  height: 8px;
+  background: #000000 0% 0% no-repeat padding-box;
+  border-radius: 13px;
+  opacity: 0.7;
+  position: absolute;
+}
+
+.collect-img-video
+{
+  top: 466px;
+  left: 136px;
+  width: 652px;
+  height: 365px;
+  background: transparent url('../../assets/collect_img_video/collect_img_video.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.accounting-dots-1
+{
+  top: 796px;
+  left: 462px;
+  width: 430px;
+  height: 70px;
+  background: transparent url('../../assets/accounting_dots.svg') 0% 0% no-repeat padding-box;
+  opacity: 0.5;
+  position: absolute;
+}
+
+.circle
+{
+  top: -227.9068603515625px;
+  left: 852px;
+  width: 1183px;
+  height: 1192px;
+  transform: matrix(0.12, -0.99, 0.99, 0.12, 0, 0);
+  background: transparent url('../../assets/circle.svg') 0% 0% no-repeat padding-box;
+  opacity: 0.5;
+  position: absolute;
+}
+
+.group-6
+{
+  top: 270px;
+  left: 1100px;
+  width: 688px;
+  height: 675px;
+  background: transparent url('../../assets/group_6.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.accounting-dots-2
+{
+  top: 936px;
+  left: 1458px;
+  width: 430px;
+  height: 70px;
+  background: transparent url('../../assets/accounting_dots.svg') 0% 0% no-repeat padding-box;
+  opacity: 0.5;
+  position: absolute;
+}
+
+.login-button
+{
+  top: 63px;
+  left: 1480px;
+  width: 118px;
+  height: 45px;
+  box-shadow: 0px 0px 20px #00000033;
+  border: 2px solid #663399;
+  border-radius: 24px;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-started-button
+{
+  top: 63px;
+  left: 1622px;
+  width: 166px;
+  height: 45px;
+  background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 20px #00000033;
+  border-radius: 24px;
+  opacity: 1;
+  position: absolute;
+}
+
+.login
+{
+  /* top: 76px;
+  left: 1516px; */
+  /* width: 46px;
+  height: 19px; */
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #663399;
+  opacity: 1;
+}
+
+.get-started
+{
+  /* top: 76px;
+  left: 1658px; */
+  /* width: 94px;
+  height: 19px; */
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.nav-link-1
+{
+  top: 68px;
+  left: 1030px;
+  width: 103px;
+  height: 34px;
+  text-align: left;
+  font: normal normal normal 25px/34px Open Sans;
+  letter-spacing: 0px;
+  color: #222222;
+  opacity: 1;
+  position: absolute;
+}
+
+.nav-link-2
+{
+  top: 68px;
+  left: 1183px;
+  width: 108px;
+  height: 34px;
+  text-align: left;
+  font: normal normal normal 25px/34px Open Sans;
+  letter-spacing: 0px;
+  color: #222222;
+  opacity: 1;
+  position: absolute;
+}
+
+.nav-link-3
+{
+  top: 68px;
+  left: 1341px;
+  width: 79px;
+  height: 34px;
+  text-align: left;
+  font: normal normal normal 25px/34px Open Sans;
+  letter-spacing: 0px;
+  color: #222222;
+  opacity: 1;
+  position: absolute;
+}
+
+.sol-wave-bg
+{
+  top: 1209px;
+  left: 0.0001220703125px;
+  width: 1920px;
+  height: 936px;
+  background: transparent url('../../assets/sol_wave_bg.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-copy-23
+{
+  top: 1137px;
+  left: 191px;
+  width: 391px;
+  height: 253px;
+  /* background: transparent url('../../assets/Rectangle-Copy-23.svg') 0% 0% no-repeat padding-box; */
+  box-shadow: 0px 0px 30px #2321321F;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-paid
+{
+  top: 1171px;
+  left: 225px;
+  width: 90px;
+  height: 90px;
+  background: transparent url('../../assets/get_paid_instantly/get_paid_instantly.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.quick-cash
+{
+  top: 1280px;
+  left: 225px;
+  width: 323px;
+  height: 19px;
+  background: transparent url('../../assets/quick_cash_disbursem.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-terms
+{
+  top: 1310px;
+  left: 225px;
+  width: 323px;
+  height: 38px;
+  background: transparent url('../../assets/get_terms_loans_that.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-copy-19
+{
+  top: 1450px;
+  left: 191px;
+  width: 391px;
+  height: 276px;
+  /* background: transparent url('img/Rectangle Copy 19.png') 0% 0% no-repeat padding-box; */
+  box-shadow: 0px 0px 30px #2321321F;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-copy-19
+{
+  top: 1450px;
+  left: 191px;
+  width: 391px;
+  height: 276px;
+  /* background: transparent url('img/Rectangle Copy 19.png') 0% 0% no-repeat padding-box; */
+  box-shadow: 0px 0px 30px #2321321F;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  opacity: 1;
+  position: absolute;
+}
+
+.low-interest
+{
+  top: 1484px;
+  left: 225px;
+  width: 90px;
+  height: 90px;
+  background: transparent url('../../assets/Low_interest_rate/low_interest_rate.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.low-interest-rate
+{
+  top: 1593px;
+  left: 225px;
+  width: 323px;
+  height: 19px;
+  background: transparent url('../../assets/low_interest_rate.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.achieve-your-financial
+{
+  top: 1624px;
+  left: 225px;
+  width: 323px;
+  height: 57px;
+  background: transparent url('../../assets/achieve_your_financi.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-copy-17
+{
+  top: 1786px;
+  left: 191px;
+  width: 391px;
+  height: 276px;
+  /* background: transparent url('../../assets/Rectangle-Copy-17.svg') 0% 0% no-repeat padding-box; */
+  box-shadow: 0px 0px 30px #2321321F;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  opacity: 1;
+  position: absolute;
+}
+
+.secure-payments
+{
+  top: 1820px;
+  left: 224px;
+  width: 91px;
+  height: 90px;
+  background: transparent url('../../assets/secure_payments/secure_payments.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.zero-paperwork
+{
+  top: 1929px;
+  left: 225px;
+  width: 323px;
+  height: 19px;
+  background: transparent url('../../assets/zero_paperwork.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-started-instant
+{
+  top: 1960px;
+  left: 225px;
+  width: 323px;
+  height: 38px;
+  background: transparent url('../../assets/get_started_instantl.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-2
+{
+  top: 1261px;
+  left: 630px;
+  width: 390px;
+  height: 272px;
+  background: blueviolet;
+  box-shadow: 0px 0px 30px #2321321F;
+  border-radius: 20px;
+  opacity: 0.5;
+  position: absolute;
+}
+
+.freelancer-feature-icon
+{
+  top: 1291px;
+  left: 664px;
+  width: 90px;
+  height: 90px;
+  background: transparent url('../../assets/freelancer_feature_icon_6@1.5x/freelancer_feature_icon_6@1.5x.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.ace-your-business
+{
+  top: 1401px;
+  left: 663px;
+  width: 323px;
+  height: 19px;
+  background: transparent url('../../assets/ace_your_business_fi.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.manage-banking
+{
+  top: 1431px;
+  left: 663px;
+  width: 323px;
+  height: 38px;
+  background: transparent url('../../assets/manage_banking_acco.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle-copy-25
+{
+  top: 1593px;
+  left: 630px;
+  width: 390px;
+  height: 253px;
+  /* background: transparent url('img/Rectangle Copy 25.png') 0% 0% no-repeat padding-box; */
+  box-shadow: 0px 0px 30px #2321321F;
+  border: 1px solid #FFFFFF;
+  border-radius: 20px;
+  opacity: 1;
+  position: absolute;
+}
+
+.covid
+{
+  top: 1627px;
+  left: 663px;
+  width: 90px;
+  height: 90px;
+  background: transparent url('../../assets/covid/covid.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.loans-to-fight-covid
+{
+  top: 1737px;
+  left: 663px;
+  width: 323px;
+  height: 19px;
+  background: transparent url('../../assets/loans_to_fight_covid.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.zero-emi-for
+{
+  top: 1767px;
+  left: 663px;
+  width: 323px;
+  height: 38px;
+  background: transparent url('../../assets/zero_emi_for_first_3.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.boost-your-business
+{
+  top: 1377px;
+  left: 1158px;
+  width: 490px;
+  height: 98px;
+  background: transparent url('../../assets/boost_your_business.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.line-3
+{
+  top: 1528px;
+  left: 1158px;
+  width: 120px;
+  height: 0px;
+  background: transparent url('../../assets/line_3.svg') 0% 0% no-repeat padding-box;
+  border: 4px solid #707070;
+  border-radius: 15px;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-your-hands
+{
+  top: 1561px;
+  left: 1158px;
+  width: 490px;
+  height: 44px;
+  background: transparent url('../../assets/get_your_hands_on_a.svg') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-an-open-account-button
+{
+  top: 1686px;
+  left: 1158px;
+  width: 279px;
+  height: 58px;
+  box-shadow: 0px 0px 20px #00000033;
+  border: 2px solid #663399;
+  border-radius: 24px;
+  opacity: 1;
+  position: absolute;
+}
+
+.get-an-open-account
+{
+  /* top: 76px;
+  left: 1516px; */
+  /* width: 46px;
+  height: 19px; */
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #663399;
+  opacity: 1;
+}
